@@ -12,5 +12,6 @@ public class TestGit {
         System.out.println("Hello World! ---- hot-fix分支创建的");
         System.out.println("hot-fix分支第二次修改");
         System.out.println("master 分支上修改内容");
+        System.out.println("pull-test");
     }
 }
