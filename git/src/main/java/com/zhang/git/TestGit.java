@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("Hello World!");
         System.out.println("Hello World!");
         System.out.println("Hello World! ---- hot-fix分支创建的");
+        System.out.println("master 分支上修改内容");
     }
 }
